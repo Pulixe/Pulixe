@@ -13,7 +13,7 @@ Java (SpringBoot Framework)| Python (Django) | Mysql/MongoDB/Syabase | | Linux, 
 - 🤔 I like Dockerize my projects for faster maintain and deploy.
 
 # Social Media
-- [Linkedin](#https://www.linkedin.com/in/francisco-pulice-rojas-502751147/)
+[Linkedin](https://www.linkedin.com/in/francisco-pulice-rojas-502751147/)
 
 # Contact 
 - Email: francisco.pulice@outlook.com
