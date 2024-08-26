@@ -13,7 +13,4 @@ Java (SpringBoot Framework)| Python (Django) | Mysql/MongoDB/Syabase | | Linux, 
 - 🌱 I’m currently learning Client Side Frameworks like (React, Angular, Vue.js).
 - 🤔 I like Dockerize my projects for faster maintain and deploy.
 
-# Social Media
-[Linkedin](https://www.linkedin.com/in/francisco-pulice-rojas-502751147/)
-
 
