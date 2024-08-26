@@ -16,6 +16,4 @@ Java (SpringBoot Framework)| Python (Django) | Mysql/MongoDB/Syabase | | Linux, 
 # Social Media
 [Linkedin](https://www.linkedin.com/in/francisco-pulice-rojas-502751147/)
 
-# Contact 
-- Email: francisco.pulice@outlook.com
-- Phone: +507 6951-9674
+
