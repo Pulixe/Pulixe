@@ -6,7 +6,7 @@ Also Please Check My Personal Web Portfolio --> https://pulixe.com
 
 # Stack
 ```bash
-Java (SpringBoot Framework)| Python (Django) | Mysql/MongoDB/Syabase | | Linux, Cloud Computing | HTML5, CSS, JavaScript
+Java (SpringBoot Framework)| Python (Django) | Mysql/MongoDB/Syabase | React / React Native (Android/IOS)| Linux, Cloud Computing | HTML5, CSS, JavaScript
 ```
 
 # Learning
