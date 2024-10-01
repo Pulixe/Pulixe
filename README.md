@@ -6,7 +6,7 @@ Also Please Check My Personal Web Portfolio -->
 
 # Stack
 ```bash
-Java (SpringBoot Framework)| Python (Django) | Mysql/MongoDB/Syabase | React / React Native (Android/IOS)| Linux, Cloud Computing | HTML5, CSS, JavaScript
+React / React Native (Android/IOS) | Java (SpringBoot Framework)| Python (Django) | Mysql/MongoDB/Oracle | | Linux, Cloud Computing | HTML5, CSS, JavaScript
 ```
 
 # Learning
