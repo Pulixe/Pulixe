@@ -9,8 +9,4 @@ Also Please Check My Personal Web Portfolio -->
 React / React Native (Android/IOS) | Java (SpringBoot Framework)| Python (Django) | Mysql/MongoDB/Oracle | | Linux, Cloud Computing | HTML5, CSS, JavaScript
 ```
 
-# Learning
-- 🌱 I’m currently learning Client Side Frameworks like (React, Angular, Vue.js).
-- 🤔 I like Dockerize my projects for faster maintain and deploy.
-
 
