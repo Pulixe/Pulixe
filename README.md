@@ -6,7 +6,7 @@ Also Please Check My Personal Web Portfolio --> [pulixe.info](https://pulixe.inf
 
 # Stack
 ```bash
-React / React Native (Android/IOS) | Java (SpringBoot Framework)| Python (Django) | Mysql/MongoDB/Oracle | | Linux, Cloud Computing | HTML5, CSS, JavaScript
+React / React Native (Android/IOS) | Java (SpringBoot Framework)| Python (Django) | SQL Server/PostgresSQL/MYSQL | AWS/DigitalOcean/Azure/GCP| Linux, Windows | Docker
 ```
 
 
